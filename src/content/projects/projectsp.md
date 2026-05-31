@@ -4,6 +4,7 @@ description: ''
 pubDate: 'May 19 2025'
 heroImage: '../../assets/SPbanner.png'
 activity: 'Active'
+endDate: 'Jul 31 2026'
 ---
 
 Also known as Project Stella Pique & PSP. Formally known as Project Star before they became their own things.

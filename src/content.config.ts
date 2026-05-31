@@ -20,7 +20,8 @@ const projects = defineCollection({
 		z.object({
 			title: z.string(),
 			description: z.string().optional(),
-			pubDate: z.coerce.date(),
+			pubDate: z.coerce.date().optional(),
+			endDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
 		}),
 });
