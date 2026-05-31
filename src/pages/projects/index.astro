@@ -6,7 +6,7 @@ import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
-
+const daysTo = Math.ceil((new Date('2026-07-31').getTime() - Date.now()) / 86400000);
 const projects = (await getCollection('projects')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
@@ -128,6 +128,9 @@ const projects = (await getCollection('projects')).sort(
 												{diffDays === 0
 													? "today"
 													: `${diffDays} day${diffDays === 1 ? "" : "s"} ago`}
+												
+													• {daysTo} days left
+												
 											</span>
 										</p>
 									</a>

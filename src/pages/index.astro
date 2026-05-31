@@ -3,6 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+const daysTo = Math.ceil((new Date('2026-07-31').getTime() - Date.now()) / 86400000);
 ---
 
 <!doctype html>
@@ -26,6 +27,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				<li> Project Plans </li>
 			</ul>
 
+			<b> {daysTo} </b> days left of Project Star's clock. First cycle.
 
 		</main>
 		<Footer />
