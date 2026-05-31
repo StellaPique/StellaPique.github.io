@@ -6,4 +6,4 @@ heroImage: '../../assets/SPbanner.png'
 activity: 'Active'
 ---
 
-I'm gonna write more about this here tomorrow or something.
+> Also known as Project Stella Pique
