@@ -1,7 +1,7 @@
 ---
 title: 'Project SP'
 description: ''
-pubDate: 'May 19 2025'
+pubDate: 'Nov 23 2025'
 heroImage: '../../assets/SPbanner.png'
 activity: 'Active'
 endDate: 'Jul 31 2026'
@@ -83,6 +83,6 @@ Project SP's purpose has always been pretty much the same in different fonts. I 
 
 I'm split between the mindset of "I should try my best to find people to connect with in my everyday life" and "I'm not going to find anyone either way, I should take it slow and do my own thing until then". This has caused phenomenons such as writing a whole book in slightly more than 40 days from merely the spite of the person I admired more than anyone not being friends with me because I thought it was my fault. This has also made me start talking to as many people as I can on the other hand, which has helped me integrate into the Blondie group, the Pinkie group, Ray's group to a small extent and all my own little small groups. The progress I've made seems unrealistic and unbalanced, but it's real. And it's real because of Project Stella Pique. It's real because of her.
 
-# Collaboration
+##### Collaboration
 
 No. It's a solo project. Maybe on one of the subs though.

@@ -17,7 +17,7 @@ Shortly after, I got tired of doing all the work myself without any exterior sup
 
 ---
 
-# Project Ascend
+##### Project Ascend
 
 ![Ascend](../../assets/ProjectAscendBanner.png)
 
@@ -29,6 +29,10 @@ Here's the banner for Mayhem II as well, just for preservation purposes.
 
 ![MayhemII](../../assets/ProjectMayhem2Banner.png)
 
-# Project Star
+##### Project Star
 
 After eventually getting tired of being let down by others who weren't on the same path as I am (which is understandable, but I was stupidly trying to make the incompatibilities work) I eventually came to make Project Star, which was a "solo" project. I say that because every time I'm happy being solo someone new comes along who I think I could try and recruit but they're a let down each time. And with each I mean just two times. But you'll learn more about that in the Project Star designated post.
+
+##### Collaboration
+
+Project Mayhem has ended, however if I get enough people in the far future and get the crazy idea of making a third project mayhem, then sure. You know where to contact me if you're interested.
