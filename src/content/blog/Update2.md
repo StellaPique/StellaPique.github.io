@@ -2,7 +2,7 @@
 title: 'WebUpdate 02'
 description: 'I have been building the website a bit more.'
 pubDate: 'Jul 01 2026'
-heroImage: '../../assets/WebUpdate01.png'
+heroImage: '../../assets/WebUpdate02.png'
 ---
 I've been working on the website more. As the title says.
 
