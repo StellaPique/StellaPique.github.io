@@ -23,6 +23,12 @@ It also has the purpose of helping with time tracking as it includes The Clock c
 
 The core values of Project Star are Hope, Ambition, and Time-Management. Hope shows in the perseverance of continuing to improve upon the same thing, as much as it rejects you, and as much as you lose motivation to. Ambition shows in the goals I set for myself in the previous time phases, most of which I reached successfully. Time-Management shows in the existence of the clock.
 
+##### Subs
+
+Project Star
+    - The Starlets
+    - The Clock
+
 ##### Collaboration
 
 If you're in a similar headspace about the self improvement thing I wouldn't mind company. After all, I couldn't have come as far as I did without support.
