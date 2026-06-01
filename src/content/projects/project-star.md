@@ -25,7 +25,7 @@ The core values of Project Star are Hope, Ambition, and Time-Management. Hope sh
 
 ##### Subs
 
-Project Star
+- Project Star
     - The Starlets
     - The Clock
 

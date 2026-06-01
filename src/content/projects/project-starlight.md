@@ -26,7 +26,7 @@ The core values of Starlight are pride, living life to its fullest, and helping 
 
 ##### Subs
 
-Project Starlight
+- Project Starlight
     - TSPS
     - CQ-X
     - New Star
