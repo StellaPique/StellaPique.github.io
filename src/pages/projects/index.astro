@@ -104,14 +104,17 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 							const pubDate = rawDate ? new Date(rawDate) : null;
 
 							let diffDays: number | null = null;
+							let isFuture = false;
 
 							if (pubDate && !isNaN(pubDate.getTime())) {
 								pubDate.setHours(0, 0, 0, 0);
 
 								diffDays = Math.floor(
-									(now.getTime() - pubDate.getTime()) /
-										(1000 * 60 * 60 * 24)
+									(now.getTime() - pubDate.getTime()) / (1000 * 60 * 60 * 24)
 								);
+
+								isFuture = diffDays < 0;
+								diffDays = Math.abs(diffDays);
 							}
 
 							const endDate = project.data.endDate
@@ -142,13 +145,16 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 
 										<p class="date">
 											<span>
-												{" Start date "}
 
 												{diffDays === null
 													? "Unknown"
-													: diffDays === 0
-														? "today"
-														: `${diffDays} day${diffDays === 1 ? "" : "s"} ago`}
+													: isFuture
+														? diffDays === 0
+															? " Starts today"
+															: `Starts in ${diffDays} day${diffDays === 1 ? "" : "s"}`
+														: diffDays === 0
+															? "Starts today"
+															: `Started ${diffDays} day${diffDays === 1 ? "" : "s"} ago`}
 
 												{daysTo !== null && (
 													<>

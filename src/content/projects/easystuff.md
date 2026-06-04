@@ -1,7 +1,7 @@
 ---
 title: 'Free N Easy'
 description: 'Ressources to start hobbies easily.'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/FreeNEasyBanner.png'
 activity: 'Active'
 ---
 
