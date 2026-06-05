@@ -3,6 +3,7 @@ title: 'Free N Easy'
 description: 'Ressources to start hobbies easily.'
 heroImage: '../../assets/FreeNEasyBanner.png'
 activity: 'Active'
+importance: 1
 ---
 
 I'm going to update this (and possibly move it into its own category) later on, but this is what it is for now.

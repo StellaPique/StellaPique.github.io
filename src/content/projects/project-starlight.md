@@ -4,6 +4,7 @@ description: 'Twin Project Of Project Star.'
 heroImage: '../../assets/ProjectStarlightModern.png'
 activity: 'Active'
 pubDate: 'Nov 11 2025'
+importance: 9
 ---
 
 Always known as Project Starlight, it serves as the twin project to Project Star, completing the couplet of self-improvement within Project SP.

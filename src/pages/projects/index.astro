@@ -8,6 +8,12 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const projects = (await getCollection('projects')).sort((a, b) => {
+	const aImportance = Number(a.data.importance ?? 0);
+	const bImportance = Number(b.data.importance ?? 0);
+	if (aImportance !== bImportance) {
+			return bImportance - aImportance; // higher importance first
+		}
+
 	const aDate = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
 	const bDate = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
 	return bDate - aDate;
