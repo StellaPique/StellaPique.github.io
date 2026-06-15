@@ -22,6 +22,7 @@ Instruments:
 - Libraries - LABS by Spitfire; LANDR Chromatic
 - Small Libraries - Vienna Symphonic Library; Mel-Lofi 2; Numa Player 2
 - Synthesizers - Vital; Surge XT (+ has a **lot** of presets built-in)
+- Cassette Drums, Modo Drum
 - Pianos - Winter Felt Piano; Claustrophobic Piano; Autumn Piano; The Felt Seiler; Softhammer; Dust Piano; Fallen Keys
 - Miscallaneous - Karoryfer Cute Emily Guitar; PianoBook; PluginBoutique
 - Basses - Modo Bass 2
