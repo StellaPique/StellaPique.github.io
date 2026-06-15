@@ -8,7 +8,9 @@ importance: 1
 
 I'm going to update this (and possibly move it into its own category) later on, but this is what it is for now.
 
-Free N' Easy is a project about helping people who want to start a creative hobby by providing them with some guidance and ressources on how to start for, you guessed it, Free N' Easy. I don't have much yet, but when the project is done or closer to being done you'll be able to find these ressources for countless creative hobbies.
+Free N' Easy is a project about helping people who want to start a creative hobby by providing them with some guidance and resources on how to start for, you guessed it, Free N' Easy. I don't have much yet, but when the project is done or closer to being done you'll be able to use these resources as a guide for countless creative hobbies.
+
+**FINISHED CATEGORIES**: Music Production, Pixel Art
 
 # Music Production
 
@@ -52,3 +54,19 @@ Extra Notes: Sonar is far better than LMMS in every single way, however LMMS is 
 Sample Kits:
 
 - Libraries - Clark Music; Cymatics; LANDR Chromatic
+
+# Pixel Art
+
+This is your Pixel Art Get-In started on the 15th of June 2026 by Stella-Lou Pique.
+
+Software:
+
+- Piskel (Web-Based)
+- LibreSprite (Desktop)
+- Resprite (Mobile)
+
+Websites:
+
+Colour Palettes - Lospec, Pixilart
+
+Extra Notes: That's all you need on the equipment and resources side. Most of all you'll also need to learn about some rules of Dos-N-Don'ts of Pixel Art and some etiquette so you know where to start. Beginners should always start with 16x16 sprites and try imitating or making stuff similar to Terraria, Minecraft, Stardew Valley or things of that sort. There's a crap ton of examples to name in which you can look for inspiration, guidance, see how they use and evade traditional Pixel Art rules. You don't need to know much colour theory but remember a few key rules if you're choosing your own colours: If the colours has less light, they become darker but more saturated and closer to blue; if it has more light (such as a highlight) they become lighter but less saturated and closer to yellow. Pixel Art has a surprisingly low ceiling on where sprites start to look presentable, maybe even good. You can start doing spritework with no experience and with a couple weeks or months of experience you'll have something that wouldn't look off used as assets in the right game. Animations, dithering, anti-aliasing however are a different beast you'll get to at your own pace.
