@@ -8,6 +8,7 @@ importance: 1
 Free N' Easy is the guide you need if you want to get into a creative hobby easily and for the least amount of money as possible. I grew up being careful with money, so I learned how to reach expensive hobbies without spending much at all. At the time of writing it isn't finished just yet, but more will be added soon.
 
 **FINISHED CATEGORIES**: Music Production, Pixel Art
+**WILL BE INCLUDED WHEN FINISHED**: Art / Digital Art; 3D Modelling; Cooking; Baking; Digital Design; Photography; Videography / Cinematography; Journalling; Writing; Poetry
 
 # Music Production
 
@@ -16,6 +17,7 @@ This is your Production Get-In started on the 17th of January 2026 by Stella-Lou
 Notes:
 
 If you want to, look into what professionals are using. Cymatics for example is okay being free, but I would never buy anything from them. Not worth it.
+If you do produce music using a midi keyboard, you will learn to play the piano at least half-well even without trying to. Searching for melodies, learning music theory, and more will naturally teach you a lot of piano as you do what you do.
 
 Instruments:
 
