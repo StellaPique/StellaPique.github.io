@@ -40,6 +40,46 @@ h6 {
 	color: rgb(var(--black));
 	line-height: 1.2;
 }
+
+.selector {
+	display: flex;
+	gap: 0.75rem;
+	margin-bottom: 1.5rem;
+	flex-wrap: wrap;
+}
+
+.filter-btn {
+	background: transparent;
+	border: 1px solid rgb(var(--gray));
+	color: rgb(var(--gray));
+	padding: 0.4rem 0.9rem;
+	border-radius: 999px;
+	cursor: pointer;
+	transition: 0.2s ease;
+	font-size: 0.9rem;
+	text-transform: capitalize;
+}
+
+.filter-btn:hover {
+	border-color: rgb(var(--accent));
+	color: rgb(var(--accent));
+}
+
+.filter-btn.active {
+	background: rgb(var(--accent));
+	border-color: rgb(var(--accent));
+	color: white;
+}
+
+.selector {
+	position: sticky;
+	top: 0;
+	backdrop-filter: blur(10px);
+	background: rgba(0,0,0,0.05);
+	padding: 0.5rem;
+	border-radius: 12px;
+}
+
 h1 {
 	font-size: 3.052em;
 }

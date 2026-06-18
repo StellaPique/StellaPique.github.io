@@ -10,14 +10,23 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const projects = (await getCollection('projects')).sort((a, b) => {
 	const aImportance = Number(a.data.importance ?? 0);
 	const bImportance = Number(b.data.importance ?? 0);
+
 	if (aImportance !== bImportance) {
-			return bImportance - aImportance; // higher importance first
-		}
+		return bImportance - aImportance;
+	}
 
 	const aDate = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
 	const bDate = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+
 	return bDate - aDate;
 });
+
+const categories = [
+	"all",
+	"current",
+	"resources",
+	"outdated",
+];
 ---
 
 <!doctype html>
@@ -28,6 +37,7 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 			main {
 				width: 960px;
 			}
+
 			ul {
 				display: flex;
 				flex-wrap: wrap;
@@ -36,58 +46,84 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 				margin: 0;
 				padding: 0;
 			}
+
 			ul li {
 				width: calc(50% - 1rem);
 			}
+
 			ul li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
+
 			ul li:first-child {
 				width: 100%;
 				margin-bottom: 1rem;
 				text-align: center;
 			}
+
 			ul li:first-child img {
 				width: 100%;
 			}
+
 			ul li:first-child .title {
 				font-size: 2.369rem;
 			}
+
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
+
 			ul li a {
 				display: block;
 			}
+
 			.title {
 				margin: 0;
 				color: rgb(var(--black));
 				line-height: 1;
 			}
+
 			.date {
 				margin: 0;
 				color: rgb(var(--gray));
 			}
+
 			ul li a:hover h4,
 			ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
+
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
+
+			.selector {
+				display: flex;
+				gap: 1rem;
+				margin-bottom: 1rem;
+			}
+
+			.filter-btn.active {
+				color: rgb(var(--accent));
+				font-weight: bold;
+			}
+
 			@media (max-width: 720px) {
 				ul {
 					gap: 0.5em;
 				}
+
 				ul li {
 					width: 100%;
 					text-align: center;
 				}
+
 				ul li:first-child {
 					margin-bottom: 0;
 				}
+
 				ul li:first-child .title {
 					font-size: 1.563em;
 				}
@@ -100,6 +136,20 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 
 		<main>
 			<section>
+
+				<div class="selector">
+					{
+						categories.map(category => (
+							<button
+								class="filter-btn"
+								data-category={category}
+							>
+								{category}
+							</button>
+						))
+					}
+				</div>
+
 				<ul>
 					{
 						projects.map((project) => {
@@ -136,7 +186,7 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 							}
 
 							return (
-								<li>
+								<li data-category={String(project.data.category ?? "").trim().toLowerCase()}>
 									<a href={`/projects/${project.id}/`}>
 										{project.data.heroImage && (
 											<Image
@@ -151,12 +201,11 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 
 										<p class="date">
 											<span>
-
 												{diffDays === null
 													? ""
 													: isFuture
 														? diffDays === 0
-															? " Starts today"
+															? "Starts today"
 															: `Starts in ${diffDays} day${diffDays === 1 ? "" : "s"}`
 														: diffDays === 0
 															? "Starts today"
@@ -176,8 +225,36 @@ const projects = (await getCollection('projects')).sort((a, b) => {
 						})
 					}
 				</ul>
+
 			</section>
 		</main>
+
+		<script>
+			document.addEventListener("DOMContentLoaded", () => {
+				const buttons = document.querySelectorAll(".filter-btn");
+				const projects = document.querySelectorAll("ul li");
+
+				buttons.forEach(btn => {
+					btn.addEventListener("click", () => {
+
+						const selected = (btn.dataset.category || "").trim().toLowerCase();
+
+						buttons.forEach(b => b.classList.remove("active"));
+						btn.classList.add("active");
+
+						projects.forEach(p => {
+							const cat = (p.dataset.category || "").trim().toLowerCase();
+
+							const show =
+								selected === "all" ||
+								cat === selected;
+
+							p.style.display = show ? "" : "none";
+						});
+					});
+				});
+			});
+		</script>
 
 		<Footer />
 	</body>

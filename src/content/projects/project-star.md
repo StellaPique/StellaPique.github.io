@@ -6,6 +6,7 @@ activity: 'Active'
 endDate: 'Jul 31 2026'
 pubDate: 'May 19 2025'
 importance: 9
+category: "current"
 ---
 
 Always known as Project Star. Used to be the main project before it split off into two, the second one being Starlight which evolved into its own thing, both being umbrella'd by Project SP.

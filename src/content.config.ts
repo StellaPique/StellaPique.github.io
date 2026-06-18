@@ -24,7 +24,8 @@ const projects = defineCollection({
 			pubDate: z.coerce.date().optional(),
 			endDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
-			importance: z.number().optional().default(0)
+			importance: z.number().optional().default(0),
+			category: z.string().optional(),
 		}),
 });
 

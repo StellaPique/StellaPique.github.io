@@ -4,6 +4,7 @@ description: 'Resources to start hobbies easily.'
 heroImage: '../../assets/FreeNEasyBanner.png'
 activity: 'Active'
 importance: 1
+category: "resources"
 ---
 Free N' Easy is the guide you need if you want to get into a creative hobby easily and for the least amount of money as possible. I grew up being careful with money, so I learned how to reach expensive hobbies without spending much at all. At the time of writing it isn't finished just yet, but more will be added soon.
 
