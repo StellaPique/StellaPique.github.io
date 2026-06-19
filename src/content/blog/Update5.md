@@ -1,5 +1,5 @@
 ---
-title: 'WebUpdate 04'
+title: 'WebUpdate 05'
 description: 'Stuff.'
 pubDate: 'Jul 08 2026'
 heroImage: '../../assets/WebUpdate01.png'
