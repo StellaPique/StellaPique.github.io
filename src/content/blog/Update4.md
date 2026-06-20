@@ -1,7 +1,7 @@
 ---
 title: 'WebUpdate 04'
 description: 'Stuff.'
-pubDate: 'Jul 08 2026'
+pubDate: 'Jun 08 2026'
 heroImage: '../../assets/WebUpdate04.png'
 ---
 Fourth Update on me.

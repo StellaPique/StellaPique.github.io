@@ -1,7 +1,7 @@
 ---
 title: 'WebUpdate 05'
 description: 'Stuff.'
-pubDate: 'Jul 08 2026'
+pubDate: 'Jun 08 2026'
 heroImage: '../../assets/WebUpdate01.png'
 ---
 Fifth Update. Also don't mind the Banner, I don't want to create a new gradient in canva and put it in here every time I make a new blog like it makes a difference so I'll either just cycle the ones I got or add onto it later.

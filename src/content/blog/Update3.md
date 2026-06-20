@@ -1,7 +1,7 @@
 ---
 title: 'WebUpdate 03'
 description: 'Stuff.'
-pubDate: 'Jul 04 2026'
+pubDate: 'Jun 04 2026'
 heroImage: '../../assets/WebUpdate03.png'
 ---
 Third WebUpdate, although it's more of a regular Update post. Going forward just consider the "Web" part of WebUpdate to refer to the medium in which I am sharing stuff, since I won't have that much of specifically Web Building to talk about.
