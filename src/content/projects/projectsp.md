@@ -77,7 +77,3 @@ I defeated my anxiety for the biggest part in the span of a week using a very ad
 I wrote an 78k word (~350 Page) book in the span of 43 days. I also received **The Mark** in this time. S.W.I.F.T (Stories With Intertwining Fates & TImelines) was made along with the creation of The Crimson Order, the book. CQ3 & CQ3.5 were initiated. This was also the first time in my life I actually had any real hobbies I did regularly instead of doomscrolling & gaming the whole day without direction or mindfulness. 
 
 That was the last major Time Phase.
-
-##### Collaboration
-
-No. It's a solo project. Maybe on one of the subs though.

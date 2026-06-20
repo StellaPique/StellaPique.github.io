@@ -40,7 +40,3 @@ CQ-X focuses on external presentation and personal style. It is based on the bel
 ##### The Stella Pique Show
 
 As corny as it sounds, this might become my biggest project ever, or at least one of the biggest. TSPS is supposed to launch around/on the 21-31st of July 2026, and be a social/vlogging project. It's just going to be me walking the streets of Munich and other crowded places and talking to people or messing with people lightheartedly. Of course as someone with a history of extreme anxiety, it won't just be extremely difficult, but another level of hardship beyond that to go out filming myself and socialising with strangers essentially. However, it will definitely be worth it. This will also not be the only thing I do, because I also aim to volunteer, feed the homeless (but definitely not film that part), and more on the side. I have much to gain from it identity-wise, and the world has much to gain from a full-potential Stella Pique.
-
-##### Collaboration
-
-If anyone wants to do TSPS with me, even under a different name but still alongside me, whether in person or online, they are more than welcome to. This will be the most difficult thing I will ever have done in my life, and I need all the support I can get. And who knows? Maybe you do too.

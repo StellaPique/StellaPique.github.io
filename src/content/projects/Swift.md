@@ -18,7 +18,3 @@ I wrote a book during the summer holidays in 9th grade called "The Crimson Order
 #### Content
 
 I'll add a list of current content here to keep track sometime. Not right now though.
-
-#### Collaboration
-
-I mean if anyone's interested in writing or doing art for the SWIFTYVERSE knock yourself out. Do contact me though.
