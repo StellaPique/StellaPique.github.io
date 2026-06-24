@@ -1,5 +1,5 @@
 ---
-title: 'My Greatest Fear'
+title: 'Facing My Greatest Fear'
 description: 'Stuff.'
 pubDate: 'Jun 23 2026'
 heroImage: '../../assets/TowerPic001.JPG'
