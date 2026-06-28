@@ -1,7 +1,7 @@
 ---
 title: 'WebUpdate 06'
 description: 'Stuff.'
-pubDate: 'Jun 08 2026'
+pubDate: 'Jun 28 2026'
 heroImage: '../../assets/Bench.JPG'
 ---
 Sixth update blog.
