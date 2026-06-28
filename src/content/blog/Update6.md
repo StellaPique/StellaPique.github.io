@@ -1,0 +1,19 @@
+---
+title: 'WebUpdate 06'
+description: 'Stuff.'
+pubDate: 'Jun 08 2026'
+heroImage: '../../assets/Bench.JPG'
+---
+Sixth update blog.
+# What's Up?
+A lot of stuff has been happening, mostly just mental stuff. I've been getting back into learning piano improv because it will help me compose better as well as learn my way around chords much more effectively. I mean trying to learn Harmony without being able to improvise is like trying to learn grammar without knowing the alphabet. Technically not impossible, but only technically. I've also been trying to prove myself with my baking and cooking skills to see how much I have improved since I started learning them and I must say I am not bad at all. I make the occasional mistake here and there but the things I can cook are approaching the level of my parents slowly, inch by inch. It'll be a while before I'm there, but it won't be too difficult I imagine, because I'm the one actively trying to improve while they cook for survival. They stopped learning because they're good, I won't stop learning even though I'm good. There's certain baked things I can make better than my mom, who has been baking as a private job and passion for the past 20 to 30 years or so, so that makes me feel better about my learning methods. It's all about creative experimentation and study.
+
+Furthermore, most of my finals are over. French was alright though it didn't even need to be, German was actually kinda pretty sweet even though I thought it would be horrible, and my English final I'm hoping I aced, though only time can tell. The last one is tomorrow, being math. In my burnout and my laziness and my foolish yielding to my sorrow I haven't studied for it, even though it is the most important one, and well, it is 18:00 right now so everything is pretty much over. There's still one last stretch I can do, so I'll be using that I hope, otherwise only luck and my natural memory/intelligence can serve me.
+
+I'm slowly approaching the end of Project Stella Pique. The Clock has been ticking for over 400 days at this point, counting days, day for day. And I have only 32 days left until the end. It is absolutely wild to think about how far I've come, so I thought I might as well make another post to just kinda highlight that especially. From an outsider with no hobbies, no purpose and no friends to Stella Pique. I never lacked potential, nor intelligence, I merely lacked direction and clarity. Opening my mind to the horrors of humanity was only one piece of the puzzle, so I don't know why being a miserable pessimist is considered being a "realist" by most. Only once I found my sense of optimism through The Star's and Stars' guidance could I see with full clarity the person I wanted to be.
+
+Following my growth, I've also come to be more appreciative of the people around me and of myself through their opinions. The Clover Group for example is full of people I not only respect, but admire highly. My boss, his girlfriend, two artists from the group and more people. I don't know them all, in fact I don't even know a single person there, but I've stopped holding myself back from appreciating them just because of that. I should not be ashamed to say that I recognise they are great people and are, through their presence, guiding me closer to The Star's now-not-so Solemn Path.
+
+My skills keep improving and I keep growing as a person. Moreover, I am getting closer to relieving myself of my lifelong curse. There is a group in which I believe I will fit in one day far in the future, just like anyone else. Even though most of the time I'm consumed by my anger, my sorrow and my loneliness there *are* times at which I feel like myself. In these short flashes of Clarity, I see the path forward as clearly as I can.
+
+Also I'm building a short story website if anyone likes reading lmao. It's [Here](https://stellapique.github.io/swift/) in case you care. Any and all support is incredibly appreciated.
