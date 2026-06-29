@@ -2,7 +2,7 @@
 title: 'WebUpdate 07'
 description: 'Stuff.'
 pubDate: 'Jun 29 2026'
-heroImage: '../../assets/Bench.JPG'
+heroImage: '../../assets/Placeholder1.JPG'
 ---
 Seventh Update Blog.
 # What's Up?
