@@ -15,13 +15,37 @@ Also known as Project Stella Pique & PSP. Formally known as Project Star before 
 
 ### Purpose
 
-Project SP's purpose has always been pretty much the same in different fonts. I want to improve myself as much as I can in different ways before the clock runs out, which is on the 31st of July 2026, 10 days after my 18th birthday. The most important thing at the beginning was my social life, and it still is, but in a different way now. It's not about escaping being an outsider by finding community, but also by finding connection now. This reinforces one of the central themes of the project, namely exponential growth. At the beginning I couldn't talk to people from all the anxiety. I had, if I was lucky, one short conversation a month with someone my age when they asked for a pen or something. I still admired people and wanted to be a part of friend groups. Cut to present time, and I'm one of the most extroverted people I know, although still without connection. I don't lack courage anymore as much as I did back then, but still as much as I lack knowledge.
+The purpose of Project SP (Project Stella Pique) has remained largely consistent, even as its expression has shifted over time. It exists as a structured framework for self-improvement across all areas of life, with the goal of maximizing personal development before its defined endpoint on 31 July 2026, ten days after my 18th birthday.
 
-I'm split between the mindset of "I should try my best to find people to connect with in my everyday life" and "I'm not going to find anyone either way, I should take it slow and do my own thing until then". This has caused phenomenons such as writing a whole book in slightly more than 40 days from merely the spite of the person I admired more than anyone not being friends with me because I thought it was my fault. This has also made me start talking to as many people as I can on the other hand, which has helped me integrate into the Blondie group, the Pinkie group, Ray's group to a small extent and all my own little small groups. The progress I've made seems unrealistic and unbalanced, but it's real. And it's real because of Project Stella Pique. It's real because of her.
+At its core, Project SP is not limited to any single domain. While social development was the initial driving force, it has always functioned as part of a broader system that includes identity, discipline, confidence, self-image, creativity, and the pursuit of long-term direction. The social aspect remains important, but it now exists alongside many other parallel forms of growth.
+
+In its earliest stage, Project SP was heavily shaped by severe social anxiety. Interaction was minimal, often limited to brief situational exchanges that could go months apart. Despite this, there was a consistent underlying awareness of others and a desire to eventually become part of social environments rather than observing from the outside.
+
+In its current state, there has been a significant shift in capability. Social confidence has developed to the point where initiating interaction is no longer a primary barrier. However, meaningful connection and long-term relational depth remain unresolved challenges. The limitation has shifted from courage to understanding and stability.
+
+A central tension within Project SP exists between two modes of operation: actively pursuing growth and connection in real-time environments, or continuing independently and allowing development to compound naturally over time. This tension has influenced major behavioral and creative shifts, including the completion of a full book in just over 40 days, originally driven by emotional reaction and perceived personal failure.
+
+Alongside this, Project SP has led to increased engagement with external groups and environments, including integration into the Blondie group, the Pinkie group, and Ray’s group to varying degrees, as well as smaller personal circles. Progress within Project SP is uneven and nonlinear, but it remains consistent in direction.
+
+What makes Project SP especially effective is the enculturation of The True Star's core beliefs. Core values include Love, Ambition, Identity, Clarity, Determination, Charisma and Justice, in no particular order. Due to most of these sharing equal importance, it is difficult to name them all and keep track of each seperately. That's a part of what the Star is for.
+
+*Though it is my own-made concept, anyone can earn the Star if they truly wish to in my eyes. Not all core values are needed to earn it, as every human has different strengths and weaknesses and someone might add something new to the table. With that said, there probably will not be another True Star after me.*
 
 ### Solemn Star's Path
 
 The Solemn Star's Path is the name of the collection of all the titles and skills I bestowed upon me or learned along my journey for improvement.
+
+### Titles
+
+I've worn and been given many titles (and names!) by many different people, including myself in some cases, most prominently the "The Star" title that allows me to embrace my path forward as I view it. Most of these titles have been long lost and forgotten, though a couple remain. Dart, Swift, Hermes & Stella are the most important names/titles I've gone by during my lifetime.
+
+Dart is a title I was never called by others. I gave it to myself so I would not forget the type of person I was at the true beginning of my life, when I was sent to a mental hospital to get help on the 11th of October, 2023. Most worth noting, is that I was incredibly naive but also extremely charismatic at the time. To this day, I am inspired yet also disgusted by some of the events I went through during the time I spent as Dart.
+
+The name Swift used to be a username but almost developed into an online-alter-ego co-living with my in-person self. This is also the longest running name I have had, spanning from long before the Dart phase into long after. This version is the least interesting as it wasn't forged by some holy event happening, but was merely my regular self.
+
+Hermes is similar to Swift and even stemmed from it, and was a temporary title I bore because of my failure to initiate [The Stella Pique Show](https://stellapique.github.io/projects/thestellapiqueexperience/). During my time as Hermes, I attempted to make up for my failure by distancing myself from my weaknesses and trying harder to be a different person than I was. I tried to out-do my regular self, having long before gotten tired of being presented to the same lifelong challenges I have always had.
+
+Stella is who I have been trying to become for a couple years now. Following the success of Project SP I've given myself the grace to actually name myself Stella instead of only having it as a title. The meaning of this particular epiphet is complex and fragmented, though best described by the values of The Star and Project SP.
 
 #### Skills
 

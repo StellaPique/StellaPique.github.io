@@ -5,7 +5,7 @@ heroImage: '../../assets/SWIFTBanner.png'
 activity: 'Active'
 importance: 2
 ---
-S.W.I.F.T is also known as Stories With Intertwining Fates & Timelines.
+S.W.I.F.T is also known as Stories With Intertwining Fates & Timelines. **Find the dedicated Website *[here](https://stellapique.github.io/swift/)*.**
 
 #### What & Why
 
@@ -13,7 +13,9 @@ This is unlike everything else not a self improvement or social project at all, 
 
 #### How I Use It
 
-I wrote a book during the summer holidays in 9th grade called "The Crimson Order". I've also written bite sized (~300 words) connected short stories called S.W.I.F.T Stories for a short while. Then there was some pixel art I made, and some musical projects set in the universe. I plan to write much more, and I plan to teach myself some art so I can do some casual comic-making and artworks. Making a game set in the universe is also on the agenda, but that takes a lot of time I don't have due to school at the time of writing this.
+S.W.I.F.T serves as the setting for nearly all of my creative work. During the summer holidays of 9th grade, I wrote a novel titled The Crimson Order. I also spent some time writing connected bite-sized (~300-word) short stories under the name S.W.I.F.T Stories, alongside creating pixel art and several music projects set within the universe.
+
+Going forward, I plan to continue expanding the universe through additional stories, artwork, and eventually comics as I improve my artistic skills. Developing a game set in the S.W.I.F.T universe is also a long-term goal, although it will have to wait until I have more time available.
 
 #### Content
 
