@@ -4,7 +4,7 @@ description: 'Stuff.'
 pubDate: 'Jun 29 2026'
 heroImage: '../../assets/Placeholder1.JPG'
 ---
-Seventh Update Blog.
+Seventh update blog.
 # What's Up?
 
 School is over. The final final is done. The only thing remaining is for the other part of the group to write one more exam, and for us all to receive our grades and party for the graduation party. Maybe if I'm unlucky (or stupid because I didn't study) I'll have to go back and have another exam to fix my grades, but that's it. It's "finally" over.
