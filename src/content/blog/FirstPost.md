@@ -1,5 +1,5 @@
 ---
-title: 'Why The Page?'
+title: 'PSP: Why The Page?'
 description: ''
 pubDate: 'May 29 2026'
 heroImage: '../../assets/pleinenature.jpg'

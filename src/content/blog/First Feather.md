@@ -1,5 +1,5 @@
 ---
-title: 'First Feather: Week 1'
+title: 'PSP: First Feather: Week 1'
 description: ''
 pubDate: 'Jun 19 2026'
 heroImage: '../../assets/FirstEverPhotograph.JPG'

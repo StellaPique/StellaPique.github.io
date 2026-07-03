@@ -1,5 +1,5 @@
 ---
-title: 'Guide To Creative Baking'
+title: 'PSP: Guide To Creative Baking'
 description: 'Stuff.'
 pubDate: 'Jul 03 2026'
 heroImage: '../../assets/BakingBlog.png'
