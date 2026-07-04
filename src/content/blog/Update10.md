@@ -2,7 +2,7 @@
 title: 'WebUpdate 10'
 description: 'Stuff.'
 pubDate: 'Jul 04 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/TheRadioBooks.JPG'
 ---
 Tenth update blog.
 # What's Up?
@@ -24,3 +24,19 @@ I'm not saying I'm better than everyone, but I *am* saying I am better than a lo
 I feel sick to my very core at everything that happens to me, and everyone that I talk to. Getting semi-drunk that one time probably did creep out a person I admire highly, as well as a huge other group of people I still care about. Being too busy with constantly battling the feeling of an anxiety attack that never comes but only swells up in rage from time to time fucked over my chance with a couple other people. The only two reasons I'm not more distraught about those specifically is that everything is gone now either way, and that I would've stayed an outsider whatever had happened to begin with.
 
 When I started talking about this so called "curse" of mine, it did feel like just a metaphoric overexaggeration about how difficult some things have been for me throughout my life. The more I suffer from it though, the more it actually feels like a curse. This amount of not bad, but horrible luck, time after time after time after time after time after time again can not be real. I feel pure hatred for whoever or whatever did this to me.
+
+# Project Updates
+
+Anyways, here go some updates.
+
+### Project SP
+
+PSP is about to undergo major changes. Its daughter projects, most prominently The Twins, are going to be out of effect the day of the Supernova unless renewed. This means that I might decide to keep either, or both, or I might scrap them both and start something new, or at least I have the choice to. The fact is, the system I've forged throughout the years is practically near perfect, and there's not much that I could do better. Hopefully I'm wrong though.
+
+### The Twins
+
+The Project Starlet is handling its usual stuff. The Starlet Of Stella is mainly focused on cooking, baking and piano practice at the moment. I made a rough puff pastry for the first time in my life today and it didn't just turn out decent, it turned out amazing. I'm also actively experimenting with new meals so I can become a better cook. If I ever get a girlfriend or friends or any chance to cook for anyone at all, I want to be able to impress people and make them happy. I don't know, maybe that's a bit optimistic, but I wouldn't be living the life I am if I wasn't an optimist. The First Feather is pretty much halted, so is CQ-X until I can get my tattoo on my birthday. TSPE's pre-season is pretty much going by without anything happening because I'm too busy being dumb and scared and fucked over by everyone.
+
+I'm hoping that as soon as possible I can get The Twins doing something useful again, as well as get PSP in its best shape. PSP's best time was probably 19% to 27% completion to be quite honest, which is a long, long while ago. I've been more mindful since then though, which has had pros and cons. On one hand, I'm more consistent with my efforts, and I'm probably spending a bit more time productively than I was then, as well as progressing more quickly. On the other, I have grown unaccustomed to using my spite, hate, and rage to fuel me. It might sound corny, but I'll gladly be corny if it means I get that ungodly, robotic, stellar amount of determination again. And if you think I'm overexaggerating, I'll remind you that the book I wrote in 43 days was written at a leisurely pace. I could've gone twice as fast.
+
+I hope for a better future, man.
