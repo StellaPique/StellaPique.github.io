@@ -2,10 +2,10 @@
 title: 'Project Starlight'
 description: 'Twin Project Of Project Star.'
 heroImage: '../../assets/ProjectStarlightModern.png'
-activity: 'Active'
+activity: 'Inactive'
 pubDate: 'Nov 11 2025'
 importance: 9
-category: "current"
+category: "outdated"
 ---
 
 Always known as Project Starlight, it serves as the twin project to Project Star, completing the couplet of self-improvement within Project SP.
@@ -40,3 +40,12 @@ CQ-X focuses on external presentation and personal style. It is based on the bel
 ##### The Stella Pique Show
 
 As corny as it sounds, this might become my biggest project ever, or at least one of the biggest. TSPS is supposed to launch around/on the 21-31st of July 2026, and be a social/vlogging project. It's just going to be me walking the streets of Munich and other crowded places and talking to people or messing with people lightheartedly. Of course as someone with a history of extreme anxiety, it won't just be extremely difficult, but another level of hardship beyond that to go out filming myself and socialising with strangers essentially. However, it will definitely be worth it. This will also not be the only thing I do, because I also aim to volunteer, feed the homeless (but definitely not film that part), and more on the side. I have much to gain from it identity-wise, and the world has much to gain from a full-potential Stella Pique.
+
+
+# The End
+
+It is the 24th of July, 2026. There are six more days of Project SP. Starlight, however, is over. It has no more, and will have no more tasks.
+
+It really did leave behind a nice legacy. The four pointed star will, for me, always stand for the morals that it stood for. It will of course continue to represent what it represents, though as part of The Foundational Projects explained [here](https://stellapique.github.io/blog/update13/). In a way, I will miss it. I really will.
+
+There's not much more to say. Farewell, Project Starlight.
