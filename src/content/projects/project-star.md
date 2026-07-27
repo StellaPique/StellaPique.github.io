@@ -1,6 +1,6 @@
 ---
 title: 'Project Star'
-description: 'My biggest project besides SP.'
+description: 'Twin of Starlight.'
 heroImage: '../../assets/ProjectStarModern.png'
 activity: 'Active'
 endDate: 'Jul 31 2026'
