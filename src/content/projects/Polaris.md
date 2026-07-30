@@ -3,7 +3,7 @@ title: 'Polaris'
 description: 'The second cycle of Project Stella Pique.'
 heroImage: '../../assets/PolarisBanner.png'
 activity: 'Active'
-importance: 8
+importance: 9
 category: "current"
 pubDate: 'Jul 31 2026'
 ---

@@ -4,6 +4,7 @@ description: ''
 heroImage: '../../assets/ProjectMayhemBanner.png'
 activity: 'Inactive'
 category: "outdated"
+importance: 0
 ---
 
 Also known as PM from back when we were secretive about it.

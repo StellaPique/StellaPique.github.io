@@ -5,7 +5,7 @@ heroImage: '../../assets/ProjectStarModern.png'
 activity: 'Active'
 endDate: 'Jul 31 2026'
 pubDate: 'May 19 2025'
-importance: 9
+importance: 1
 category: "current"
 ---
 
@@ -30,3 +30,9 @@ The core values of Project Star are Hope, Ambition, and Time-Management. Hope sh
 - Project Star
     - The Starlets
     - The Clock
+
+# The End
+
+It is the 30th of July, 2026. One day before the Supernova. I hereby declare Project Star officially over. It will, just like Project Starlight, still be a foundational project, running in the background and influencing my decisions, but it will not be recognised in the foreground anymore. It is sad to see it go, knowing the things that I have achieved with it, but that's just the way it is. I'll miss Project Star.
+
+Now, on to Polaris.
