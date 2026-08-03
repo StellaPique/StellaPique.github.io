@@ -2,9 +2,12 @@
 title: 'S.W.I.F.T'
 description: 'Fictional universe project.'
 heroImage: '../../assets/SWIFTBanner.png'
-activity: 'Active'
-importance: 2
+activity: 'outdated'
+importance: 0
 ---
+
+**DISCLAIMER: COMPLETELY INACTIVE FOR NOW.**
+
 S.W.I.F.T is also known as Stories With Intertwining Fates & Timelines. **Find the dedicated Website *[here](https://stellapique.github.io/swift/)*.**
 
 #### What & Why

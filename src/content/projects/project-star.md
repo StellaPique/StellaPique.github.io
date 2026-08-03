@@ -5,7 +5,7 @@ heroImage: '../../assets/ProjectStarModern.png'
 activity: 'Active'
 endDate: 'Jul 31 2026'
 pubDate: 'May 19 2025'
-importance: 1
+importance: 0
 category: "current"
 ---
 
