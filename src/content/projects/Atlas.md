@@ -3,7 +3,7 @@ title: 'Atlas'
 description: 'A very quest-ily project.'
 heroImage: '../../assets/AtlasBanner.png'
 activity: 'Active'
-importance: 5
+importance: 7
 category: "current"
 pubDate: 'Jul 31 2026'
 ---

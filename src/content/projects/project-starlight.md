@@ -4,7 +4,7 @@ description: 'Twin Project Of Project Star.'
 heroImage: '../../assets/ProjectStarlightModern.png'
 activity: 'Inactive'
 pubDate: 'Nov 11 2025'
-importance: 1
+importance: 0
 category: "outdated"
 ---
 
