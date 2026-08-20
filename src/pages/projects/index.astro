@@ -87,25 +87,17 @@ const categories = [
 
 			.title {
 				margin: 0;
-				color: var(--black);
 				line-height: 1;
-			}
-
-			.date {
-				margin: 0;
-				color: var(--gray);
 			}
 
 			ul li a:hover h4,
 			ul li a:hover .date {
 				color: var(--accent);
-				box-shadow: var(--box-shadow);
 			}
 
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
+			.date {
+				margin: 0;
 			}
-
 			.filter-btn.active {
 				color: var(--accent);
 				font-weight: bold;
@@ -137,6 +129,7 @@ const categories = [
 		<Header />
 
 		<main>
+			<!---
 			<section>
 
 				<div class="selector">
@@ -151,7 +144,7 @@ const categories = [
 						))
 					}
 				</div>
-
+			--->
 				<ul>
 					{
 						projects.map((project) => {
@@ -209,11 +202,15 @@ const categories = [
 														? diffDays === 0
 															? "Starts today"
 															: `Starts in ${diffDays} day${diffDays === 1 ? "" : "s"}`
-														: diffDays === 0
-															? "Starts today"
-															: `Started ${diffDays} day${diffDays === 1 ? "" : "s"} ago`}
+														: daysTo === 0
+															? diffDays === 0
+																? "Ended today"
+																: `Ended ${diffDays} day${diffDays === 1 ? "" : "s"} ago`
+															: diffDays === 0
+																? "Started today"
+																: `Started ${diffDays} day${diffDays === 1 ? "" : "s"} ago`}
 
-												{daysTo !== null && (
+												{daysTo !== null && daysTo > 0 && (
 													<>
 														{" • "}
 														{daysTo} day{daysTo === 1 ? "" : "s"} left
