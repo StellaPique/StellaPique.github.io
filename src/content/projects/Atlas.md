@@ -8,6 +8,6 @@ category: "current"
 pubDate: 'Jul 31 2026'
 ---
 
-Atlas is the project of progress. There is an imaginary cosmic pool full of needles of my past. They represent the quests and Odysseys I have done. A quest can be a daytrip somewhere with something new to see, a difficult hike that challenges me physically, running a marathon, joining some sort of contest, setting some arbitrary goal then trying my best to reach it, and more. Anything that adds a pleasant memory to think back to or helps me enjoy life a bit more is worthy of a cosmic needle.
+**Atlas** is a project about creating and completing tasks, trips, and missions known as "Quests". Quests can range from going somewhere, meeting someone, doing something bold or fun, or engaging in an activity with a clear goal in mind. Every Quest needs to be one or more of the following: Memorable, important for my growth, fun, or difficult. After completing a quest, the Quester feels fulfilled, proud of what they've done, or happy that they could experience a little more of life. Moreover, Quests can also be life goals that one works towards. There are also Odysseys, which are collections of multiple Quests usually done in quick succession, as well as Journeys, which are collections of Odysseys. Every completed Quest, Odyssey, and Journey yield a reward in cosmic needles. These can range from a tiny quest for no needles at all, to the average short quest of one needle, to even huge quests worth tens of cosmic needles. All in all, Atlas compels the Quester to gather new experiences, learn new things, and to take pride in their self-competitive identity.
 
-More info coming soon.
+As of beginning of second phase, I have earned 50 cosmic needles.
